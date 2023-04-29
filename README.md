@@ -5,4 +5,5 @@
 
 
 
-2) Microsoft clone
+2) Microsoft clone- Responsive design 
+![MicrosoftCapture](https://user-images.githubusercontent.com/92972992/235300966-44e4c6a4-7807-458c-819a-bb6862c247ce.PNG)
